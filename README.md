@@ -1,2 +1,3 @@
-# inote
-#for keeping a tarck of your notes.
+# mynote
+# Web application for storing your notes.
+
