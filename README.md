@@ -1,3 +1,3 @@
-# mynote
-# Web application for storing your notes.
+# Mynote
+# Web application for storing your notes privately.
 
